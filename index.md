@@ -12,7 +12,8 @@ OptimChain is when industrial engineering meets automation technology. Let us bu
 * IoT: Raspberry Pi, Azure sphere
 
 ### Projects
-![image](https://user-images.githubusercontent.com/84352976/120245233-70f8e080-c221-11eb-8205-f71d6aabad39.png)
+![image](https://user-images.githubusercontent.com/16582383/120255334-8f220900-c240-11eb-9be0-c5f433c6a061.png)
+
 
 [Cloud Hydroponics-Cloud Based Hydroponics sensoring](https://github.com/OptimChain/Cloud_Hydroponics)
 
@@ -20,7 +21,8 @@ In the current Hydroponics Industry, sensors are used to monitor greenhouse floo
 
 &nbsp;
 
-![image](https://user-images.githubusercontent.com/84352976/120245020-c1237300-c220-11eb-94d0-43f84024ad7a.png)
+![image](https://user-images.githubusercontent.com/16582383/120255306-7ca7cf80-c240-11eb-9997-b88b0aa4bc62.png)
+
 
 [QR_ERP-Automated Cloud Based Inventory Control](https://github.com/OptimChain/QR_ERP)
 
