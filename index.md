@@ -2,16 +2,17 @@
 
 
 ###  What We Are
-OptimChain is when industrial engineering meets analytics and automation technology. Let us build end to end analytics and automation solutions for you. We create proof-of-concept custom time-series analytics, script automation, sensoring, web scraping, BI, and factory floor level integration within an industrial engineering context. 
+OptimChain is when Industrial engineering meets analytics, sensoring, and automation technology. Build your analytics solution straight from the sensor with web, mobile, and cloud accessibility. Automate your data lakes and data warehouses with custom solutions built for manufacturing.  
 
-
-### Custom End to End Tech stack
+### Analytics Technologies: 
 * Languages: Python, R, Javascript, SQL
 * Optimzation: Promodel, python LP, Excel solver, R scripting
 * Visualization: Flask, Shiny, PowerBi
 * Integration: Selenium, Beautiful Soup, Azure Connectors
 * Storage: Azure, Azure datalake and blob storage, SQL server
-* IoT: Raspberry Pi, Azure sphere
+
+### Sensor Technologies:
+* IoT: Raspberry Pi, Azure sphere, Azure Eventhub Integration
 
 ### Sample Implementations:
 
