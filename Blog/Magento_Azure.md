@@ -28,10 +28,10 @@ Within, PBI, you can then pull data lake raw tables. If the data factory refresh
 *	Current Directory (PBI mount is here)
 *	Archive
     * YYY
-      *	M1
-      *	M2
-  *	Day 1
-  *	Day 2
+      * M1
+      * M2
+         * Day 1
+         * Day 2
 
 **Figure 4:** PBI Datalake connector
 
