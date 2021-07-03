@@ -18,6 +18,7 @@ With the above, we can then deposit Magento tables into Azure Datalake and mount
 ![magento snip 2](https://user-images.githubusercontent.com/84352976/124342571-9c048600-db79-11eb-8b88-3e96af414646.PNG)
 
 With this approach, the raw tables would be stored in Azure Datalake with an easy to access GUI (Figure 3) via your cloud portal. Datalake is used because of how cheap it is to simple tables without established schemas. Magento would already reinforce the schemas, so there is no need for additional systems here. 
+
 **Figure 3:** Storage Explorer GUI
 
 ![magento snip 3](https://user-images.githubusercontent.com/84352976/124342579-a7f04800-db79-11eb-84a8-491053f00aa8.PNG)
