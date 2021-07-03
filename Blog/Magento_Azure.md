@@ -11,7 +11,8 @@ Figure 1 shows a typical cloud-based warehouse landscape with Data Factories, Da
 
 **Link 2:** https://docs.microsoft.com/en-us/azure/batch/tutorial-run-python-batch-azure-data-factory
 
-With the above, we can then deposit Magento tables into Azure Datalake and mount PowerBi analytics on-top. Bi can be refreshed daily to pull the newest Magento tables as shown in Figure 2. 
+With the above, we can then deposit Magento tables into Azure Datalake and mount PowerBi analytics on-top. Bi can be refreshed daily to pull the newest Magento tables as shown in Figure 2.
+
 **Figure 2:** Simple Magento PBI stack
 
 ![magento snip 2](https://user-images.githubusercontent.com/84352976/124342571-9c048600-db79-11eb-8b88-3e96af414646.PNG)
