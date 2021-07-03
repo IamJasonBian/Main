@@ -4,6 +4,7 @@
 Figure 1 shows a typical cloud-based warehouse landscape with Data Factories, Data Lakes, and Power BI. In the Magento 2 Community Edition case, we can use data factory to copy Magento tables. Refer to the below documentation in Link 1 for an azure Magento connector. You can host a python SDK within Data Factory to build this pipeline. Link 2 contains how to host the python code via azure data-factory.
 
 **Figure 1:** End to End cloud stack
+
 ![magento snip 1](https://user-images.githubusercontent.com/84352976/124342566-95760e80-db79-11eb-9c40-a09131a14acc.PNG)
 
 **Link 1:** https://docs.microsoft.com/en-us/azure/data-factory/connector-magento
