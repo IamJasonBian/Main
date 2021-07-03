@@ -6,8 +6,8 @@ Figure 1 shows a typical cloud-based warehouse landscape with Data Factories, Da
 **Figure 1:** End to End cloud stack
 ![magento snip 1](https://user-images.githubusercontent.com/84352976/124342566-95760e80-db79-11eb-9c40-a09131a14acc.PNG)
 
-   **Link 1:** https://docs.microsoft.com/en-us/azure/data-factory/connector-magento
-   **Link 2:** https://docs.microsoft.com/en-us/azure/batch/tutorial-run-python-batch-azure-data-factory
+  &nbsp **Link 1:** https://docs.microsoft.com/en-us/azure/data-factory/connector-magento
+  &nbsp **Link 2:** https://docs.microsoft.com/en-us/azure/batch/tutorial-run-python-batch-azure-data-factory
 
 With the above, we can then deposit Magento tables into Azure Datalake and mount PowerBi analytics on-top. Bi can be refreshed daily to pull the newest Magento tables as shown in Figure 2. 
 **Figure 2:** Simple Magento PBI stack
