@@ -37,6 +37,8 @@ QR ERP is a product demo for a cloud based QR scanning system. Small manufacturi
 
 
 ![image](https://user-images.githubusercontent.com/84352976/120245367-d056f080-c221-11eb-9ed9-e98f00b69ef5.png) ![image](https://user-images.githubusercontent.com/84352976/120245376-da78ef00-c221-11eb-8202-353f49adc7e1.png) ![image](https://user-images.githubusercontent.com/84352976/120245387-eb296500-c221-11eb-810f-7b591d06b6ae.png)
+![image](https://user-images.githubusercontent.com/16582383/130158481-668e01b4-4d37-460c-9af3-3022041858b6.png)
+
 
 ### Contact
 
