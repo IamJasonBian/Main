@@ -1,4 +1,4 @@
-![Logo Small](https://user-images.githubusercontent.com/84352976/120263189-0ad78200-c250-11eb-8738-e54b17b58394.png)
+![image](https://user-images.githubusercontent.com/84352976/130158800-e40026a2-41ea-473f-92f6-95524c96feae.png)
 
 
 ###  What We Are
