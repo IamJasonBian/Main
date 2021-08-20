@@ -37,15 +37,13 @@ Typically, a proof-of-concept demo is small and localized to a single applicatio
 
 <p float="left">
   
-<img src="https://user-images.githubusercontent.com/84352976/120245367-d056f080-c221-11eb-9ed9-e98f00b69ef5.png" length="100" />
-<img src="https://user-images.githubusercontent.com/84352976/120245376-da78ef00-c221-11eb-8202-353f49adc7e1.png" length="100" />
-<img src="https://user-images.githubusercontent.com/84352976/120245387-eb296500-c221-11eb-810f-7b591d06b6ae.png" length="100" />
-<img src="https://user-images.githubusercontent.com/84352976/130158704-70c962a0-eb74-4900-8417-ab61856213ee.png" length="100" />
+<img src="https://user-images.githubusercontent.com/84352976/120245367-d056f080-c221-11eb-9ed9-e98f00b69ef5.png" height="100" />
+<img src="https://user-images.githubusercontent.com/84352976/120245376-da78ef00-c221-11eb-8202-353f49adc7e1.png" height="100" />
+<img src="https://user-images.githubusercontent.com/84352976/120245387-eb296500-c221-11eb-810f-7b591d06b6ae.png" height="100" />
+<img src="https://user-images.githubusercontent.com/84352976/130158704-70c962a0-eb74-4900-8417-ab61856213ee.png" height="100" />
 </p>
 
 
-![image](https://user-images.githubusercontent.com/84352976/120245367-d056f080-c221-11eb-9ed9-e98f00b69ef5.png) ![image](https://user-images.githubusercontent.com/84352976/120245376-da78ef00-c221-11eb-8202-353f49adc7e1.png) ![image](https://user-images.githubusercontent.com/84352976/120245387-eb296500-c221-11eb-810f-7b591d06b6ae.png)
-![image](https://user-images.githubusercontent.com/84352976/130158704-70c962a0-eb74-4900-8417-ab61856213ee.png)
 
 
 ### Contact
