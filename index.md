@@ -22,7 +22,7 @@ Typically, a proof-of-concept demo is small and localized to a single applicatio
 
 #### [Cloud Based Hydroponics Sensoring (Click Here)](https://github.com/OptimChain/Cloud_Hydroponics)
 
-<img src="https://user-images.githubusercontent.com/84352976/130158800-e40026a2-41ea-473f-92f6-95524c96feae.png" alt="logo" width="300"/>
+<img src="https://user-images.githubusercontent.com/84352976/120255471-e031fd00-c240-11eb-8cc5-5b027cc268c9.png" alt="logo" width="300"/>
 
 In the current Hydroponics Industry, sensors are used to monitor floor level hydraulic systems for both water and air deviations. Downtime of any components in this sensoring setup would cause significant damage to greenhouse plant health. Cloud Hydroponics is a cloud azure instrumentation system to complement the existing floor level greenhouse networks. Cloud instrumentation will allow alerting, monitoring, and real time storage of sensor telemetry at scale with customizability.
 
