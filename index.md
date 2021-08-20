@@ -20,19 +20,12 @@ Typically, a proof-of-concept demo is small and localized to a single applicatio
 
 ### Sample Demo Implementations with Code:
 
-#### [Cloud Based Hydroponics Sensoring (Click Here)](https://github.com/OptimChain/Cloud_Hydroponics)
 
-<img src="https://user-images.githubusercontent.com/84352976/120255471-e031fd00-c240-11eb-8cc5-5b027cc268c9.png" alt="logo" width="300"/>
+| #### [Cloud Based Hydroponics Sensoring (Click Here)](https://github.com/OptimChain/Cloud_Hydroponics) | #### [Modular QR based Inventory Control (Click Here)](https://github.com/OptimChain/QR_ERP) |
+| --- | ----------- |
+| <img src="https://user-images.githubusercontent.com/84352976/120255471-e031fd00-c240-11eb-8cc5-5b027cc268c9.png" alt="logo" width="300"/> | <img src="https://user-images.githubusercontent.com/84352976/120255432-c8f30f80-c240-11eb-8974-d60f14ae9f12.png" alt="logo" width="300"/> |
+| In the current Hydroponics Industry, sensors are used to monitor floor level hydraulic systems for both water and air deviations. Downtime of any components in this sensoring setup would cause significant damage to greenhouse plant health. Cloud Hydroponics is a cloud azure instrumentation system to complement the existing floor level greenhouse networks. Cloud instrumentation will allow alerting, monitoring, and real time storage of sensor telemetry at scale with customizability. | QR ERP is a product demo for a cloud based QR scanning system. Small manufacturing facilities need an inventory tracking solution that is lightweight, fast, and accessible without all the expensive bells and whistles that large ERPs typically come with. With our setup, small manufacturing factories can print QRcodes as action modules and auto-increment inventory, reconcillate warehouse stock, and create full builds via Bill of Materials with their phone! |
 
-In the current Hydroponics Industry, sensors are used to monitor floor level hydraulic systems for both water and air deviations. Downtime of any components in this sensoring setup would cause significant damage to greenhouse plant health. Cloud Hydroponics is a cloud azure instrumentation system to complement the existing floor level greenhouse networks. Cloud instrumentation will allow alerting, monitoring, and real time storage of sensor telemetry at scale with customizability.
-
-&nbsp;
-
-#### [Modular QR based Inventory Control (Click Here)](https://github.com/OptimChain/QR_ERP)
-
-<img src="https://user-images.githubusercontent.com/84352976/120255432-c8f30f80-c240-11eb-8974-d60f14ae9f12.png" alt="logo" width="300"/>
-
-QR ERP is a product demo for a cloud based QR scanning system. Small manufacturing facilities need an inventory tracking solution that is lightweight, fast, and accessible without all the expensive bells and whistles that large ERPs typically come with. With our setup, small manufacturing factories can print QRcodes as action modules and auto-increment inventory, reconcillate warehouse stock, and create full builds via Bill of Materials with their phone!
 
 ### Previous Customers
 
