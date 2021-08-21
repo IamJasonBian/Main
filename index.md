@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <img src="https://user-images.githubusercontent.com/84352976/130158800-e40026a2-41ea-473f-92f6-95524c96feae.png" alt="logo" width="200"/>
 
 
